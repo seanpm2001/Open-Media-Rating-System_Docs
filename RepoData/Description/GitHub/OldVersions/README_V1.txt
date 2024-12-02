@@ -1,0 +1,1 @@
+🔢️🔞️📚️📖️ The official documentation source repository for the Open Media Rating System project; a federated public domain rating system, designed to serve as an alternative to the non-free MPAA and ESRB rating systems.
